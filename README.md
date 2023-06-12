@@ -15,11 +15,10 @@ Welcome to my github repo. I hope you find something useful here. 😊
   1️⃣ Implementing a diffusion model to generate images <br>
   2️⃣ Can a neural network learn to take FFT ?<br>
 </div>
-
-<br>
-<br>
-<br>
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/gurusarath1"
 
 
 
