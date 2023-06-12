@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guru-sarath-t-4ab648131/">
-    <img src="https://github.com/gurusarath1/Snippets/blob/master/GitHubLogo_G_iconSize.png" alt="Guru Sarath T" width="72" height="72">
+    <img src="https://raw.githubusercontent.com/gurusarath1/gurusarath1/main/includes/images/GitHubLogo_G_anitmation.gif" alt="Guru Sarath T" width="72" height="72">
   </a>
 </p>
 
