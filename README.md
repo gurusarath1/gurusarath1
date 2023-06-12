@@ -6,6 +6,12 @@
   </a>
 </p>
 
+Hi there!
+Welcome to my github repo. I hope you find something useful here. 😊
+
+These are the current projects that I am working on -
+1️⃣ Implementing a diffusion model to generate images 
+2️⃣ Can a neural network learn to take FFT ?
 
 ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
 
