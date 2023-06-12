@@ -19,7 +19,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <br>
 <br>
 
-<div align="center">
+<p align="center">
   ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
-</div>
+</p>
 
