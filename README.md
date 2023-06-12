@@ -16,8 +16,13 @@ Welcome to my github repo. I hope you find something useful here. 😊
   2️⃣ Can a neural network learn to take FFT ?<br>
 </div>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurusarath1)
 
+<a href="https://www.linkedin.com/in/gurusarath1/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 
 
