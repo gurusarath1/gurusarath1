@@ -1,13 +1,19 @@
 # Guru Sarath  ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
-### Visit https://gurusarath1.github.io/
-### My ipad notes dump
-#### Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/guru-sarath-t-4ab648131/">
     <img src="https://raw.githubusercontent.com/gurusarath1/gurusarath1/main/includes/images/GitHubLogo_G_anitmation.gif" alt="Guru Sarath T" width="72" height="72">
   </a>
-</p>
+</div>
+
+<br>
+
+### Visit https://gurusarath1.github.io/
+### My ipad notes dump
+<div align="center">
+  Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
+ </div>
+
 
 Hi there!
 Welcome to my github repo. I hope you find something useful here. 😊
