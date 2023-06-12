@@ -17,11 +17,12 @@ Welcome to my github repo. I hope you find something useful here. 😊
   2️⃣ Can a neural network learn to take FFT ?<br>
 </div>
 
+<br>
 <div align="center">
-Visit https://gurusarath1.github.io/ for more info <br>
+  Visit https://gurusarath1.github.io/ for more info <br>
   <b> Goto my ipad notes dump below 📑 </b> <br>
   Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
- </div>
+</div>
 
 
 
