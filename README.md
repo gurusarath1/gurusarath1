@@ -1,5 +1,6 @@
 # Guru Sarath  ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
 ### Visit https://gurusarath1.github.io/
+### My ipad notes dump -> Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guru-sarath-t-4ab648131/">
