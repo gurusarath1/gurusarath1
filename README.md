@@ -24,6 +24,12 @@ Welcome to my github repo. I hope you find something useful here. 😊
       src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
     />
   </a>
+<a href="https://www.instagram.com/gurusarath1/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
 </div>
 
 
