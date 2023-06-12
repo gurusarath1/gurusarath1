@@ -19,7 +19,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 
 ### Visit https://gurusarath1.github.io/ for more info
 <div align="center">
-  <b> My ipad notes dump 📑 </b>
+  <b> My ipad notes dump 📑 </b> <br>
   Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
  </div>
 
