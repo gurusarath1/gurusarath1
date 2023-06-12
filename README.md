@@ -8,13 +8,6 @@
 
 <br>
 
-### Visit https://gurusarath1.github.io/
-### My ipad notes dump
-<div align="center">
-  Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
- </div>
-
-
 Hi there!
 Welcome to my github repo. I hope you find something useful here. 😊
 
@@ -24,7 +17,16 @@ Welcome to my github repo. I hope you find something useful here. 😊
   2️⃣ Can a neural network learn to take FFT ?<br>
 </div>
 
+### Visit https://gurusarath1.github.io/ for more info
+<div align="center">
+  <b> My ipad notes dump 📑 </b>
+  Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
+ </div>
 
+
+
+
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/gurusarath1/">
     <img
