@@ -1,3 +1,4 @@
+# Guru Sarath  ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
 ### Visit https://gurusarath1.github.io/
 
 <p align="center">
@@ -19,7 +20,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <br>
 <br>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=gurusarath1&style=flat-square&color=blueviolet&label=views)
-</p>
+
+
+
 
