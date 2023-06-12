@@ -1,5 +1,9 @@
 ### Visit https://gurusarath1.github.io/
 
+<div align="center">
+![free counter micro service](https://komarev.com/ghpvc/?username=gurusarath1)
+</div>
+  
 <!--
 **gurusarath1/gurusarath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
