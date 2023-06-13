@@ -24,7 +24,8 @@ Welcome to my github repo. I hope you find something useful here. 😊
   Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
 </div>
 
-
+### My fav repos
+![Connect 4 - Monte Carlo Agent](https://github.com/gurusarath1/Connect_4_Game)
 
 
 <br>
