@@ -14,7 +14,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <div align="left">
   These are the current projects that I am working on -<br>
   1️⃣ Implementing a diffusion model to generate images <br>
-  2️⃣ Can a neural network learn to take FFT ?<br>
+  2️⃣ NN to learn complex FFT coeffs <br>
 </div>
 
 <br>
