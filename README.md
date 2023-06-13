@@ -20,8 +20,8 @@ Welcome to my github repo. I hope you find something useful here. 😊
 
 
 ### My fav repos
-![Connect 4 - Monte Carlo Agent](https://github.com/gurusarath1/Connect_4_Game)
-![Neural Style Transfer - Original paper reimplementation](https://github.com/gurusarath1/Neural-Style-Transfer)
+![Connect 4 - Monte Carlo Agent](https://github.com/gurusarath1/Connect_4_Game)  
+![Neural Style Transfer - Original paper reimplementation](https://github.com/gurusarath1/Neural-Style-Transfer)  
 
 
 <br>
