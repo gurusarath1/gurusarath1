@@ -14,12 +14,12 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <div align="left">
   These are the current projects that I am working on -<br>
   1️⃣ Implementing a diffusion model to generate images <br>
-  2️⃣ NN to learn complex FFT coeffs <br>
+  2️⃣ SLAM project to map my house using an autonomous robot <br>
 </div>
 
 
 
-### My fav repos
+### Must Visit
 ![❤️‍🔥 Connect 4 - Monte Carlo Agent](https://github.com/gurusarath1/Connect_4_Game)  
 ![❤️‍🔥 Neural Style Transfer - Original paper reimplementation](https://github.com/gurusarath1/Neural-Style-Transfer)  
 
