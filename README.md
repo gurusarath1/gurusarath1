@@ -22,7 +22,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 ### Must Visit
 ![👉 Connect 4 - Monte Carlo Agent](https://github.com/gurusarath1/Connect_4_Game)  
 ![👉 Neural Style Transfer - Original paper reimplementation](https://github.com/gurusarath1/Neural-Style-Transfer)  
-![👉 Deep Dream - reimplementation using VGG16](https://github.com/gurusarath1/Deep-Dream)
+![👉 Deep Dream - reimplementation using VGG16/ResNet50](https://github.com/gurusarath1/Deep-Dream)
 
 
 <br>
