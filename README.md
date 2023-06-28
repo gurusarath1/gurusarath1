@@ -29,9 +29,10 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <div align="center">
   Visit https://gurusarath1.github.io/ for more info <br>
   <b> Goto my ipad notes dump below 📑 </b> <br>
-  <a href="https://1drv.ms/f/s!AsoxHpt6IY_JpHfTY-XL2QVBnmcy?e=aJIoAY">
-  Artificial Intelligence | Signals and Communiations | Electronics and Embedded Systems
-  </a>
+  <a href=""> Machine Learning </a>
+  <a href=""> Signal Processing </a>
+  <a href=""> Algorithms </a>
+  <a href=""> Statistics </a>
 </div>
 
 
