@@ -29,10 +29,10 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <div align="center">
   Visit https://gurusarath1.github.io/ for more info <br>
   <b> Goto my ipad notes dump below 📑 </b> <br>
-  <a href=""> Machine Learning </a>
-  <a href=""> Signal Processing </a>
-  <a href=""> Algorithms </a>
-  <a href=""> Statistics </a>
+  <a href=""> Machine Learning |</a>
+  <a href=""> Signal Processing |</a>
+  <a href=""> Algorithms |</a>
+  <a href=""> Statistics |</a>
 </div>
 
 
