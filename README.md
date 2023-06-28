@@ -31,7 +31,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
   <b> Goto my ipad notes dump below 📑 </b> <br>
   <a href=""> Machine Learning |</a>
   <a href=""> Signal Processing |</a>
-  <a href=""> Algorithms |</a>
+  <a href="https://1drv.ms/b/s!AsoxHpt6IY_JpHnB1goA3O0_CORe?e=F0yCKh"> Algorithms |</a>
   <a href=""> Statistics |</a>
 </div>
 
