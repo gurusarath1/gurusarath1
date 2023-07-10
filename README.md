@@ -13,8 +13,8 @@ Welcome to my github repo. I hope you find something useful here. 😊
 
 <div align="left">
   These are the current projects that I am working on -<br>
-  1️⃣ Implementing a diffusion model to generate images <br>
-  2️⃣ SLAM project to map my house using an autonomous robot <br>
+  1️⃣ Weak supervision to classify actions <br>
+  2️⃣ Reimplementing context autoencoder <br>
 </div>
 
 
