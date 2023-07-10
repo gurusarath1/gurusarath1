@@ -25,6 +25,7 @@ Welcome to my github repo. I hope you find something useful here. 😊
 <a href="https://github.com/gurusarath1/Connect_4_Game">👉 Connect 4 - Monte Carlo Agent</a> <br>
 <a href="https://github.com/gurusarath1/Neural-Style-Transfer">👉 Neural Style Transfer - Original paper reimplementation</a> <br>
 <a href="https://github.com/gurusarath1/Deep-Dream">👉 Deep Dream - reimplementation using VGG16/ResNet50</a> <br>
+<a href="https://github.com/gurusarath1/Diffusion-Model-DDPM">👉 Denoising Diffusion probabilistic Models </a> <br>
 
 
 <br>
