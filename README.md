@@ -25,7 +25,7 @@ Welcome to my GitHub repo. I hope you find something useful here. 😊
 <a href="https://github.com/gurusarath1/Neural-Style-Transfer">👉 Neural Style Transfer - Original paper reimplementation</a> <br>
 <a href="https://github.com/gurusarath1/Deep-Dream">👉 Deep Dream - reimplementation using VGG16/ResNet50</a> <br>
 <a href="https://github.com/gurusarath1/Diffusion-Model-DDPM">👉 DDPM - Denoising Diffusion probabilistic Models </a> <br>
-<a href="https://github.com/gurusarath1/Weak-supervision-action-estimation">👉 Weak Supervision - Pose Recognition </a> <be>
+<a href="https://github.com/gurusarath1/Weak-supervision-action-estimation">👉 Weak Supervision - Pose Recognition </a> <br>
 <a href="https://github.com/gurusarath1/Facial-Recognition-One-Shot-Learning">👉 Face Recognition - One Shot Learning (Siamese Network) </a> <br>
 
 
