@@ -12,7 +12,7 @@ Hi there!
 Welcome to my GitHub repo. I hope you find something useful here. 😊
 
 <div align="left">
-  These are the current projects that I am working on -<be>
+  These are the current projects that I am working on -<br>
   1️⃣ Reimplementing context autoencoder <br>
 </div>
 
